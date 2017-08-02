@@ -40,7 +40,7 @@
     "webpack-dev-server": "1.6.5"
   },
   "peerDependencies": {
-    "react": "0.14.x",
+    "react": "0.14.x || 15.x",
     "classnames": "^1.2.0 || ^2.x"
   },
   "tags": [
